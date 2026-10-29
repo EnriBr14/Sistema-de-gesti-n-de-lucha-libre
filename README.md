@@ -46,7 +46,7 @@ Antes de ejecutar la aplicación, necesitas:
 1. Clona el repositorio:
 
    ```bash
-   git clone URL_DE_TU_REPOSITORIO
+   git clone https://github.com/EnriBr14/Sistema-de-gesti-n-de-lucha-libre
    ```
 
 2. Abre el proyecto en tu IDE.
