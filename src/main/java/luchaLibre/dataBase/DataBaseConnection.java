@@ -7,8 +7,8 @@ public class DataBaseConnection {
 
     public static Connection getConnetionDb(){
         String url = "jdbc:mysql://localhost:3306/lucha_libre";
-        String password = "admin";
-        String user = "root";
+        String password = "DB_PASSWORD";
+        String user = "DB_USER";
 
       try{
           Connection connectionDb = DriverManager.getConnection(url,user, password);
